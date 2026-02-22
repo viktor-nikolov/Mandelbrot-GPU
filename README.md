@@ -60,7 +60,7 @@ python3 mandelbrot.py         # Linux
 
 | Package | Purpose |
 |---|---|
-| cupy-cuda13x | NVIDIA GPU acceleration via CUDA (float64)  <br />Requires CUDA 13 Runtime installed (see instructions below) |
+| cupy&#8209;cuda13x | NVIDIA GPU acceleration via CUDA (float64)  <br />Requires CUDA 13 Runtime installed (see instructions below) |
 | pyopencl | Intel integrated GPU acceleration via OpenCL (float32)  <br />On Linux also requires the `intel-opencl-icd` apt package |
 | numba | JIT-compiled CPU computation with automatic parallelism (used when a GPU is not available) |
 | gmpy2 | Accelerated arbitrary-precision arithmetic for deep zooms (C-based GMP/MPFR, replacing pure-Python mpmath) |
