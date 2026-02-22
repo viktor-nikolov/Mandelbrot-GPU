@@ -33,6 +33,8 @@ A help overlay in the top-left corner of the window shows the available controls
 
 ## How to Run
 
+Download [mandelbrot.py](mandelbrot.py).
+
 ```
 python mandelbrot.py          # Windows
 python3 mandelbrot.py         # Linux
