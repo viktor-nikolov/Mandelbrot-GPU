@@ -114,7 +114,7 @@ pip install numpy Pillow mpmath gmpy2 numba cupy-cuda13x pyopencl
 ### Command-line options
 
 |Option&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Description |
-|:--|---|
+|:--|:--|
 | `--forcecpu` | Disable all GPU acceleration; forces CPU computation via Numba JIT (if the package is installed) or CPU multiprocessing |
 | `--forceintel` | Disable CUDA but keep Intel OpenCL GPU if available |
 | `-h`, `--help` | Show help message and exit |
