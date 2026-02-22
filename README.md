@@ -94,7 +94,7 @@ pip install numpy Pillow mpmath gmpy2 numba cupy-cuda13x pyopencl
 >
 > The **CUDA 13 Runtime libraries** are required for `cupy-cuda13x` for NVIDIA GPU acceleration to work.
 >
-> **On Windows**, install the CUDA 13 Runtime from the [CUDA Toolkit Downloads](https://developer.nvidia.com/cuda-downloads) page (the pip packages didn't work reliably for me on Windows). You don't need to install the full CUDA Toolkit. In the installer, select Advanced Installation, then choose only the Runtime to be installed.
+> **On Windows**, install the CUDA 13 Runtime from the [CUDA Toolkit Downloads](https://developer.nvidia.com/cuda-downloads) page (the pip packages didn't work reliably for me on Windows). You don't need to install the full CUDA Toolkit. In the installer, select Custom Installation, then choose only the Runtime to be installed.
 >
 > **On Linux**, install them with pip:
 >
